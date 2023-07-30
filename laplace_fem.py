@@ -126,8 +126,7 @@ if __name__=='__main__':
             A[i,i] = 1.0
             
             #rhs 
-            rhs[i] =  1.0#(vertices[i,0]*(vertices[i,0]-1) ) * vertices[i,1]*(vertices[i,1]-1)
-
+            rhs[i] =  1.0
     
     
     u_func = np.linalg.inv(A) @ rhs
