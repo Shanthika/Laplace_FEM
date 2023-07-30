@@ -5,12 +5,12 @@ Here are a few results.
 
 #### Laplace Equation
 $$-\nabla u =0 $$ 
-![image](./assets/images/laplace00.png)
+![](./assets/images/laplace00.png)
 
 #### Poisson Equation
 $$-\nabla u = x^2-y^2 $$
-![](assets/images/x2-y200.png)
+![](./assets/images/x2-y200.png)
 
 #### Poisson Equation
 $$-\nabla u = 10sin(x) * 10sin(y) $$
-![](assets/images/sin00.png)
+![](./assets/images/sin00.png)
